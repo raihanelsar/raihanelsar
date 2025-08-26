@@ -1,6 +1,6 @@
 # Hi, I'm Elsar 👋
 
-<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif">
+<img align="right" alt="Coding" width="350" src="img/raihanelsar.png">
 
 ## 🚀 About Me
 Front-End Developer  
