@@ -1,6 +1,6 @@
-# Hi, I'm Elsar 👋
+<p align="center"><a href="https://github.com/raihanelsar"><img width=580px alt="Hello, I'm Elsar." src="img/raihanelsar.png" /></a></p>
 
-<img align="right" alt="Coding" width="350" src="img/raihanelsar.png">
+
 
 ## 🚀 About Me
 Front-End Developer  
