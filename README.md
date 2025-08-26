@@ -1,10 +1,12 @@
 # Hi, I'm Elsar 👋
 
+<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif">
+
 ## 🚀 About Me
-- 🌱 Currently learning **Web Development**
-- 💻 Love building **web apps and creative projects**
-- 🎯 Goal: Become a **skilled front-end developer**
-- ⚡ Fun fact: I like coding late at night 🌙
+Front-End Developer  
+- 💻 Love building **web apps and creative projects**  
+- 🎯 Goal: Become a **skilled front-end developer**  
+- ⚡ Fun fact: I like coding late at night 🌙  
 
 ---
 
@@ -21,21 +23,33 @@
 ---
 
 ## 📊 GitHub Stats
-![Elsar's GitHub stats](https://github-readme-stats.vercel.app/api?username=raihanelsar&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raihanelsar&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=raihanelsar&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raihanelsar&layout=compact&theme=tokyonight" alt="Top Langs" height="160"/>
+</p>
 
 ---
 
 ## 🏆 GitHub Trophies
-![trophy](https://github-profile-trophy.vercel.app/?username=raihanelsar&theme=onedark&margin-w=10&margin-h=10)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=raihanelsar&theme=onedark&row=1&column=6&margin-w=10&margin-h=10"/>
+</p>
 
 ---
 
 ## 🌐 Connect with Me
-- 💼 [LinkedIn](www.linkedin.com/in/raihan-elsar-a315b9334)
-- 🌍 [Portfolio](raihanelsar.github.io)
-- 📧 Email: **raihan.elsar25@gmail.com**
+<p align="left">
+  <a href="https://www.linkedin.com/in/raihan-elsar-a315b9334">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:raihan.elsar25@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-red?logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://raihanelsar.github.io">
+    <img src="https://img.shields.io/badge/-Portfolio-black?logo=firefox&logoColor=white" />
+  </a>
+</p>
 
 ---
+
 ✨ _Thanks for visiting my profile! Feel free to check out my repos and projects._ 🚀
