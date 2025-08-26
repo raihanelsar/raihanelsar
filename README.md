@@ -26,7 +26,6 @@ Front-End Developer
 ### ⚙️ Back-End
 ![Node.js](https://img.shields.io/badge/-Node.js-43853d?logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white)
-![Laravel](https://cdn.simpleicons.org/laravel/FF2D20)
 
 ### 🧰 Tools
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
