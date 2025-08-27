@@ -1,10 +1,10 @@
 ## Hi, I'm Elsar👋
-  <img width=360px src="img/raihanelsar.png" /></a></p>
+  <img width=240px src="img/raihanelsar.png" /></a></p>
 
 
 
 ## 🚀 About Me
-Front-End Developer  
+Newbie Front-End Developer  
 - 💻 Love building **web apps and creative projects**  
 - 🎯 Goal: Become a **skilled front-end developer**  
 - ⚡ Fun fact: I like coding late at night 🌙  
@@ -23,10 +23,6 @@ Front-End Developer
 ### 🎨 Front-End
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white)
-
-### ⚙️ Back-End
-![Node.js](https://img.shields.io/badge/-Node.js-43853d?logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white)
 
 ### 🧰 Tools
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
