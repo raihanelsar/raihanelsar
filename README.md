@@ -6,7 +6,7 @@ I am interested in web development, particularly in the frontend field.
 I am currently learning React, Tailwind CSS, and Laravel, and am interested in developing technology-based educational applications.
 
 📍 Jakarta, Indonesia  
-🔗 [LinkedIn](https://www.linkedin.com/in/raihan-elsar) • [Portfolio Website](https://raihanelsar.github.io)  
+🔗 [LinkedIn](https://www.linkedin.com/in/raihan-elsar-a315b9334) • [Portfolio Website](https://raihanelsar.github.io)  
 📫 Email: raihan.elsar25@gmail.com  
 
 ---
